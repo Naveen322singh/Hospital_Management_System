@@ -39,13 +39,6 @@ Connectivity	JDBC (Java Database Connectivity)
 📦 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/hospital-management-system.git
-cd hospital-management-system
-Import into your Java IDE:
-
 Use Eclipse, IntelliJ IDEA, or NetBeans.
 
 Set up the database:
@@ -59,9 +52,6 @@ Run the application:
 Compile and run the main file (e.g., Main.java or Login.java).
 
 📂 Folder Structure
-pgsql
-Copy
-Edit
 /hospital-management-system
 │
 ├── src/
